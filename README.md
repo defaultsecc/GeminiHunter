@@ -343,7 +343,4 @@ provide.
 
 ---
 
-## License
 
-See the `LICENSE` file in the repository. If no license is present, all rights
-are reserved by the repository owner until one is added.
