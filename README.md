@@ -7,12 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/defaultsecc/GeminiHunter/stargazers"><img src="https://img.shields.io/github/stars/defaultsecc/GeminiHunter?style=for-the-badge&color=D3122B&labelColor=555"></a>
-  <a href="https://github.com/defaultsecc/GeminiHunter/issues"><img src="https://img.shields.io/github/issues/defaultsecc/GeminiHunter?style=for-the-badge&color=D3122B&labelColor=555"></a>
-  <a href="https://github.com/defaultsecc/GeminiHunter/forks"><img src="https://img.shields.io/github/forks/defaultsecc/GeminiHunter?style=for-the-badge&color=D3122B&labelColor=555"></a>
   <img src="https://img.shields.io/badge/PYTHON-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=555">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=555">
-  <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=555">
+  <img src="https://img.shields.io/badge/PLATFORM-LINUX%20%7C%20MACOS-D3122B?style=for-the-badge&labelColor=555">
+  <img src="https://img.shields.io/badge/TYPE-SECURITY%20TOOL-D3122B?style=for-the-badge&labelColor=555">
   <img src="https://img.shields.io/badge/USE-AUTHORIZED%20ONLY-8E0A1C?style=for-the-badge&labelColor=555">
 </p>
 
