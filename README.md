@@ -181,6 +181,20 @@ GeminiHunter is built for authorized security testing and educational purposes.
   and do not retain or misuse recovered keys.
 - You are responsible for your use of this tool.
 
+---
+
+## Acknowledgements & Inspiration
+
+GeminiHunter was inspired by the cybersecurity research, creative ideas, and educational content shared by **LostSec** on YouTube.
+
+Special thanks to LostSec for sharing valuable knowledge and contributing to the cybersecurity community.
+
+**GeminiHunter is an independently developed project by DefaultSec**, built to extend research into Google API key discovery, validation, and security assessment.
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
 ## Disclaimer
 
 This software is provided for authorized security testing and educational purposes
